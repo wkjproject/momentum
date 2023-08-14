@@ -11,6 +11,22 @@
 + JAVASCRIPT
 # 주요기능
 + 날씨API를 활용한 사용자 위치 기준 날씨 표기
+  <details>
+    <summary>Javascript Code</summary>
+      코드다
+  </details>
 + To Do List 와 Login 정보를 localstorage에 기록
+  <details>
+    <summary>Javascript Code</summary>
+      코드다
+  </details>
 + 새로고침 할 때 마다 사진과 명언이 랜덤하게 바뀜
+  <details>
+    <summary>Javascript Code</summary>
+      코드다
+  </details>
 + 시계
+  <details>
+    <summary>Javascript Code</summary>
+      코드다
+  </details>
