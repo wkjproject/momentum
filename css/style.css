@@ -1,0 +1,92 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hidden {
+  display: none;
+}
+
+h1, h2, ol, span, input {
+  color:white;
+}
+
+#clock {
+  font-size: 6rem;
+  margin-bottom: 10rem;
+}
+
+#greeting {
+  font-size: 4rem;
+  margin-top: -2rem;
+  margin-bottom: 1rem;
+}
+
+#login-form {
+  margin-left: 3rem;
+  margin-bottom: 1rem;
+}
+
+input {
+  border: none;
+  background:transparent;
+  cursor: pointer;
+}
+
+input::placeholder {
+  color: white;
+}
+
+#login-form input:nth-child(1) {
+  width: 14rem;
+  font-size: 1.5rem;
+}
+
+#login-form input:nth-child(2) {
+  font-size: 1.5rem;
+}
+
+#todo-form input {
+  width: 20.5rem;
+  font-size: 1.5rem;
+}
+
+#todo-list {
+  font-size: 1.5rem;
+}
+
+#todo-list li {
+  display: flex;
+  align-items: center;
+}
+
+#todo-list button {
+  margin-left: 1rem;
+}
+
+#quote {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  bottom:1vh
+}
+
+#quote span:nth-child(1){
+  font-size: 2rem;
+}
+#quote span:nth-child(2){
+  font-size: 1.5rem;
+}
+
+#weather {
+  position: relative;
+  top: 15rem;
+  font-size: 2rem;
+}
