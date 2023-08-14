@@ -1,5 +1,5 @@
 # momentum practice coding
-+ 구글 크롬 확장기능 모멘텀 연습 코딩
++ 구글 크롬 확장기능 모멘텀 Javascript 연습 코딩
 # 개발기간
 + 2023.8.14
 # 개발환경
